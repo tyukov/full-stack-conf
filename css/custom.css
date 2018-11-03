@@ -1,0 +1,23 @@
+.navbar .navbar-brand {
+  font-size: 1rem;
+  color: rgba(255,255,255,.5);
+}
+
+.navbar .navbar-brand:hover {
+  color: rgba(255,255,255,.75);
+}
+
+.jumbotron {
+  background-image: url(../img/jumbo-bg.jpg);
+  background-size: cover;
+}
+
+.list-group-item a {
+  color: #212529;
+  text-decoration: none;
+}
+
+.media-avatar-64 {
+  width: 64px;
+  height: 64px;
+}
